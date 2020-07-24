@@ -3,6 +3,6 @@ My implementation Structure from Motion for object 3D reconstruction
 
 Requirement :
 OpenCV
-Point CLoud Lirbary
+Point CLoud Library
 Boost
 Eigen
